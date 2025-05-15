@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amatyajoshi" alt="amatyajoshi" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development by Colt Steele**
 
 - 📫 How to reach me **joshiamatya@gmail.com**
 
