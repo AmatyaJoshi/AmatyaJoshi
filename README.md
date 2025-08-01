@@ -1,20 +1,44 @@
-<h1 align="center">Hey, I'm Amatya Joshi</h1>
-<h3 align="center">Breaking code and calling it innovation.</h3>
+<h1 align="center">Hi, I'm Amatya Joshi 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amatyajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="amatyajoshi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amatyajoshi" alt="amatyajoshi" /></a> </p>
-
-
-- 📫 How to reach me **joshiamatya@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amatya_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amatya_joshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amatya-joshi-725435219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amatya-joshi-725435219" height="30" width="40" /></a>
-<a href="https://instagram.com/amatya_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amatya_joshi" height="30" width="40" /></a>
+<p align="center">
+  Full-Stack Developer · AI Enthusiast · National Olympiad Medalist
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/amatyajoshi">LinkedIn</a> • 
+  <a href="mailto:your.email@example.com">Email</a> • 
+  <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatyajoshi&show_icons=true&locale=en&layout=compact" alt="amatyajoshi" /></p>
+### 🧑‍💻 About Me
+
+- 🎓 AI & Data Science @ MIT ADT University  
+- 🛠️ Building scalable apps using React, Node.js, TypeScript & AI tools  
+- 🧠 Passionate about impactful tech & clean UI/UX  
+- 🥇 National Gold Medalist (Football) | Computer Olympiad Winner  
+
+---
+
+### ⚙️ Tech Stack
+
+`React` · `Next.js` · `Node.js` · `MongoDB` · `PostgreSQL` · `Langchain` · `Tailwind CSS` · `AWS` · `GCP` · `TypeScript`
+
+---
+
+### 🚀 Featured Projects
+
+- **RetailEdge** – Full-stack POS system with Razorpay & Clerk Auth  
+- **AYUSH Startup Portal** – Scheme registry with AI-powered chatbot  
+- **YojanaManch** – Matching startups to gov schemes (MySQL + Node)
+
+---
+
+### 📫 Let's Connect
+
+I'm open to internships, freelance roles & collaborations. Feel free to reach out!
+
+---
+
+<p align="center"><em>“Code. Create. Contribute.”</em></p>
