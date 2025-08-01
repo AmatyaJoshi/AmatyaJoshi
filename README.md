@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
   <!-- Styling -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" style="background-color:white; border-radius: 50%; padding: 5px;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
 
   <!-- Cloud / Infra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" style="background-color:white; border-radius: 10px; padding: 3px;" />
