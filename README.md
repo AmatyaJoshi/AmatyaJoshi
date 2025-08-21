@@ -23,7 +23,6 @@
 - 🎓 @ MIT ADT University  
 - 🛠️ Building scalable applications with a focus on clean architecture & user experience  
 - 🧠 Exploring AI integrations in full-stack systems  
-- 🏆 Computer Olympiad Winner | National Gold Medalist (Football) | Chess
 
 ---
 
