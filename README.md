@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
-  Full-Stack Developer · AI Enthusiast · National Olympiad Medalist
+  Full-Stack Developer · AI Enthusiast · Late-Night Debugger
 </p>
 
 <p align="center">
