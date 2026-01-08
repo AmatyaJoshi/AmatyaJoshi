@@ -1,171 +1,67 @@
-<!-- ===================== TOP BANNER ===================== -->
-<p align="center">
-  <img 
-    src="YOUR_CYBERPUNK_BANNER_GIF_URL" 
-    alt="Cyberpunk Banner"
-    width="100%"
-  />
-</p>
-
-<!-- ===================== INTRO ===================== -->
-<h1 align="center">
-  Amatya Joshi
-</h1>
+<h1 align="center">Hi, I'm Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
-  Full-Stack & AI Engineer · Cloud-Native Systems · Production-Grade Architecture
+  Full-Stack Developer · AI Enthusiast · Late-Night Debugger
 </p>
 
 <p align="center">
-  <img 
-    src="YOUR_GHIBLI_DP_LOOP_GIF_URL" 
-    width="160" 
-    style="border-radius: 18px;"
-  />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <a href="[https://linkedin.com/in/amatyajoshi](https://www.linkedin.com/in/amatya-joshi-725435219/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:workwithamatya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/AmatyaJoshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
+### 🧑‍💻 About Me
+
+- 🎓 @ MIT ADT University  
+- 🛠️ Building scalable applications with a focus on clean architecture & user experience  
+- 🧠 Exploring AI integrations in full-stack systems  
+
+---
+
+### ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif" width="460"/>
+  <!-- Web Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
+
+  <!-- Styling -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
+
+  <!-- Cloud / Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" style="background-color:white; border-radius: 10px; padding: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" />
+
+  <!-- VCS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" style="background-color:white; border-radius: 50%; padding: 5px;" />
 </p>
 
 ---
 
-## 👨‍💻 Who I Am
+### 📫 Let's Connect
 
-I build **real, scalable software** — not demos.
-
-I specialize in **cloud-native full-stack systems** and **AI-powered workflows**, focusing on:
-
-- clean architecture  
-- reliability under scale  
-- automation & CI/CD  
-- AI that actually ships to production  
-
-🎓 **B.Tech Computer Science — MIT ADT University (2026)**  
-💼 **Project Intern @ Tata Consultancy Services (TCS)**
+I'm open to internships, freelance opportunities & collaborations. Feel free to reach out!
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Line.gif" width="100%"/>
-</p>
-
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/TechStack.gif" width="460"/>
-</p>
-
-### Languages & Core
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
-</p>
-
-### Backend & Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
-</p>
-
-### Cloud, DevOps & AI
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="56"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Projects.gif" width="460"/>
-</p>
-
-## 🚀 Highlighted Projects
-
-### **Retail Edge** — Cloud-Native Retail & POS
-- Microservices architecture
-- Multi-LLM AI assistant (Gemini, LLaMA, Mistral, Qwen, DeepSeek)
-- CI/CD with GitHub Actions → Azure & Vercel
-- RBAC, analytics dashboards, real-time workflows
-
-### **Receipt Tracker** — AI Receipt Digitization
-- Gemini 2.5 Pro-powered extraction
-- Event-driven processing with Inngest
-- Real-time Convex database
-
-### **YelpCamp**
-- Auth, CRUD, maps, image pipelines
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Work.gif" width="460"/>
-</p>
-
-## 🧑‍💼 Experience
-
-**Tata Consultancy Services (TCS)**  
-_AI & Platform Engineering Intern_
-
-- Reduced manual work by **50%** using AI tooling
-- Built microservices-aligned frontend systems
-- Automated CI/CD pipelines
-- Delivered production AI workflows
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Stats.gif" width="460"/>
-</p>
-
-## 📊 GitHub Activity (Clean & Professional)
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AmatyaJoshi&show_icons=true&hide_border=true&theme=transparent" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmatyaJoshi&hide_border=true&theme=transparent" 
-    height="165"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Coding.gif" width="460"/>
-</p>
-
-<p align="center">
-  <em>
-    I care about building systems that last — clean, scalable, and production-ready.
-  </em>
-</p>
+<p align="center"><em>“Code. Create. Contribute.”</em></p>
