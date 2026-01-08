@@ -24,15 +24,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
-- 🎓 @ MIT ADT University  
-- 🛠️ Building scalable applications with a focus on clean architecture & user experience  
-- 🧠 Exploring AI integrations in full-stack systems  
+- @ MIT ADT University  
+- Building scalable applications with a focus on clean architecture & user experience  
+- Exploring AI integrations in full-stack systems  
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Web Core -->
