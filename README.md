@@ -1,166 +1,171 @@
+<!-- ===================== TOP BANNER ===================== -->
+<p align="center">
+  <img 
+    src="YOUR_CYBERPUNK_BANNER_GIF_URL" 
+    alt="Cyberpunk Banner"
+    width="100%"
+  />
+</p>
+
+<!-- ===================== INTRO ===================== -->
 <h1 align="center">
-  Hi, I’m Amatya Joshi
+  Amatya Joshi
 </h1>
 
 <p align="center">
-  Full-Stack & AI Developer · Cloud-Native Systems · Production-Grade Engineering
+  Full-Stack & AI Engineer · Cloud-Native Systems · Production-Grade Architecture
 </p>
 
 <p align="center">
-  <img src="YOUR_GHIBLI_IMAGE_URL_HERE" width="180" style="border-radius: 16px;" />
+  <img 
+    src="YOUR_GHIBLI_DP_LOOP_GIF_URL" 
+    width="160" 
+    style="border-radius: 18px;"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:workwithamatya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/AmatyaJoshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif" width="460"/>
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 Who I Am
 
-I’m a **Full-Stack / AI Developer** building **cloud-native, production-grade systems** with a strong focus on:
+I build **real, scalable software** — not demos.
 
-- scalable architectures  
-- clean abstractions  
-- real-world performance  
-- AI-powered workflows  
+I specialize in **cloud-native full-stack systems** and **AI-powered workflows**, focusing on:
 
-Currently pursuing **B.Tech in Computer Science** at **MIT ADT University (2026)** and working hands-on with **microservices, CI/CD, and LLM integrations**.
+- clean architecture  
+- reliability under scale  
+- automation & CI/CD  
+- AI that actually ships to production  
 
-I enjoy taking products **from zero → production**, not just demos.
+🎓 **B.Tech Computer Science — MIT ADT University (2026)**  
+💼 **Project Intern @ Tata Consultancy Services (TCS)**
 
 ---
-
-## What I Work With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/TechStack.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Line.gif" width="100%"/>
 </p>
 
-### Core Engineering
-- **TypeScript, JavaScript, Java, Python**
-- Data Structures & Algorithms
-- Object-Oriented Design
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/TechStack.gif" width="460"/>
+</p>
+
+### Languages & Core
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+</p>
 
 ### Frontend
-- React, Next.js
-- Tailwind CSS, Shadcn/ui
-- React Native (Expo)
-
-### Backend & APIs
-- Node.js, Express.js
-- REST, JWT, WebSockets
-- Microservices Architecture
-
-### Databases
-- PostgreSQL, MySQL, MongoDB
-- Supabase, Convex, Appwrite
-- Prisma ORM
-
-### Cloud & DevOps
-- **Azure, AWS, GCP, Vercel**
-- GitHub Actions, Azure DevOps, GitLab CI/CD
-- Docker, CI/CD pipelines, Bash scripting
-
-### AI / ML
-- LLM integrations (Gemini, OpenAI, LLaMA, Mistral, Qwen)
-- Vector Search, RAG pipelines
-- TensorFlow, pandas
-
----
-
-## Featured Projects
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Projects.gif" width="420" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
 </p>
 
-### Retail Edge  
-**Cloud-Native Retail & POS Platform**
+### Backend & Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+</p>
 
-- Full-stack microservices platform handling **1000+ daily transactions**
-- Role-based access control (Owner, Manager, Staff)
-- Multi-LLM AI assistant across **6 models**
-- CI/CD pipelines with GitHub Actions → Azure & Vercel
-- PostgreSQL (Supabase), Azure Blob Storage, Prisma
-
-**Stack:**  
-Next.js · React · Node.js · Express · TypeScript · Azure · Supabase · Tailwind · LLMs
+### Cloud, DevOps & AI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="56"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
+</p>
 
 ---
 
-### Receipt Tracker  
-**AI Receipt Digitization Platform**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Projects.gif" width="460"/>
+</p>
 
-- AI-powered PDF receipt parsing with **90%+ accuracy**
-- Event-driven workflows using **Inngest**
+## 🚀 Highlighted Projects
+
+### **Retail Edge** — Cloud-Native Retail & POS
+- Microservices architecture
+- Multi-LLM AI assistant (Gemini, LLaMA, Mistral, Qwen, DeepSeek)
+- CI/CD with GitHub Actions → Azure & Vercel
+- RBAC, analytics dashboards, real-time workflows
+
+### **Receipt Tracker** — AI Receipt Digitization
+- Gemini 2.5 Pro-powered extraction
+- Event-driven processing with Inngest
 - Real-time Convex database
-- Secure Clerk authentication
 
-**Stack:**  
-Next.js · TypeScript · Gemini 2.5 Pro · Convex · Inngest · Vercel
-
----
-
-### YelpCamp  
-**Full-Stack Booking Platform**
-
-- Auth, CRUD, reviews
-- Mapbox-powered interactive maps
-- Secure image uploads via Cloudinary
-
-**Stack:**  
-Node.js · Express · MongoDB · Mapbox · Cloudinary
+### **YelpCamp**
+- Auth, CRUD, maps, image pipelines
 
 ---
-
-## Experience
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Work.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Work.gif" width="460"/>
 </p>
+
+## 🧑‍💼 Experience
 
 **Tata Consultancy Services (TCS)**  
-_Project Intern — AI & Platform Engineering_
+_AI & Platform Engineering Intern_
 
-- Built AI-powered admin tooling reducing manual effort by **50%**
-- Designed React + TypeScript interfaces with complex business filters
-- Automated CI/CD pipelines with Azure DevOps & GitLab CI
-- Integrated AI inference services across microservices
-
----
-
-## Beyond Code
-
-- 🏆 National Gold Medalist — Football (Team Captain)
-- ♟️ FIDE Registered Chess Player
-- 🧠 National AI Olympiad — State Rank 6
-- 📚 IEEE & IJSREM Publications (2025)
+- Reduced manual work by **50%** using AI tooling
+- Built microservices-aligned frontend systems
+- Automated CI/CD pipelines
+- Delivered production AI workflows
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Coding.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Stats.gif" width="460"/>
+</p>
+
+## 📊 GitHub Activity (Clean & Professional)
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AmatyaJoshi&show_icons=true&hide_border=true&theme=transparent" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmatyaJoshi&hide_border=true&theme=transparent" 
+    height="165"
+  />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Coding.gif" width="460"/>
+</p>
 
 <p align="center">
   <em>
-    I value clean systems, thoughtful engineering, and shipping things that last.
+    I care about building systems that last — clean, scalable, and production-ready.
   </em>
 </p>
