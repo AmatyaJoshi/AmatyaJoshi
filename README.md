@@ -27,106 +27,89 @@
 
 ---
 
-<h3>
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-    width="28"
-    align="center"
-  />
-  About
-</h3>
+<!-- ABOUT -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+  width="60"
+  align="left"
+/>
 
-<p>
-I like building things that actually <strong>run, scale, and don’t break at 2 AM</strong>.
-Most of my time goes into full-stack systems, backend APIs, and experimenting with AI
-inside real products — not demos.
-</p>
+### About Me
+- Computer Science @ MIT ADT University  
+- Build things that **run, scale, and don’t break**
+- Prefer systems over demos
+- Learn by breaking and fixing  
 
-<p>
-Currently studying Computer Science at MIT ADT University and spending most evenings
-either debugging, refactoring, or breaking something just to understand it better.
-</p>
+<br clear="left"/>
 
 ---
 
-<h3>
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-    width="28"
-    align="center"
-  />
-  Tech I Use
-</h3>
+<!-- TECH -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="60"
+  align="right"
+/>
+
+### Tech I Use
+- React · Next.js · Tailwind  
+- Node.js · Express · REST APIs  
+- TypeScript · JavaScript · Python · Java  
+- PostgreSQL · MongoDB · MySQL  
+- AWS · Azure · GCP  
+
+<br clear="right"/>
 
 <p align="center">
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"
-       style="background-color:black; border-radius:50%; padding:5px;"/>
-
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-
-  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-       width="50" style="background-color:white; border-radius:10px; padding:3px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
 </p>
 
 ---
 
-<h3>
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"
-    width="28"
-    align="center"
-  />
-  What I’m Usually Doing
-</h3>
+<!-- DOING -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif"
+  width="60"
+  align="left"
+/>
 
-<ul>
-  <li>Building full-stack features end-to-end</li>
-  <li>Designing APIs and backend workflows</li>
-  <li>Automating deployments & CI/CD pipelines</li>
-  <li>Exploring AI integrations that actually help users</li>
-  <li>Solving problems on LeetCode when I feel stuck</li>
-</ul>
+### What I’m Usually Doing
+- Building full-stack features end-to-end  
+- Designing backend flows & APIs  
+- Automating CI/CD pipelines  
+- Experimenting with AI inside real apps  
+- Solving problems on LeetCode  
+
+<br clear="left"/>
 
 ---
 
-<h3>
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif"
-    width="28"
-    align="center"
-  />
-  Let’s Connect
-</h3>
+<!-- CONNECT -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif"
+  width="60"
+  align="right"
+/>
 
-<p>
-If you’re working on something interesting, or just want to talk tech — feel free to reach out.
-</p>
+### Let’s Connect
+- Open to internships & collaborations  
+- Always happy to talk tech  
+- Drop a mail or connect on LinkedIn  
+
+<br clear="right"/>
 
 ---
 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif"
-    width="24"
+    width="40"
   />
+  <br/>
   <em>Code. Create. Contribute.</em>
 </p>
