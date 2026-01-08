@@ -1,67 +1,166 @@
-<h1 align="center">Hi, I'm Amatya Joshi 🧑🏻‍💻</h1>
+<h1 align="center">
+  Hi, I’m Amatya Joshi
+</h1>
 
 <p align="center">
-  Full-Stack Developer · AI Enthusiast · Late-Night Debugger
+  Full-Stack & AI Developer · Cloud-Native Systems · Production-Grade Engineering
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/amatyajoshi](https://www.linkedin.com/in/amatya-joshi-725435219/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="YOUR_GHIBLI_IMAGE_URL_HERE" width="180" style="border-radius: 16px;" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:workwithamatya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AmatyaJoshi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎓 @ MIT ADT University  
-- 🛠️ Building scalable applications with a focus on clean architecture & user experience  
-- 🧠 Exploring AI integrations in full-stack systems  
-
----
-
-### ⚙️ Tech Stack
-
 <p align="center">
-  <!-- Web Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
-
-  <!-- Styling -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
-
-  <!-- Cloud / Infra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" style="background-color:white; border-radius: 10px; padding: 3px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" />
-
-  <!-- VCS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" style="background-color:white; border-radius: 50%; padding: 5px;" />
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Developer.gif" width="420" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## About Me
 
-I'm open to internships, freelance opportunities & collaborations. Feel free to reach out!
+I’m a **Full-Stack / AI Developer** building **cloud-native, production-grade systems** with a strong focus on:
+
+- scalable architectures  
+- clean abstractions  
+- real-world performance  
+- AI-powered workflows  
+
+Currently pursuing **B.Tech in Computer Science** at **MIT ADT University (2026)** and working hands-on with **microservices, CI/CD, and LLM integrations**.
+
+I enjoy taking products **from zero → production**, not just demos.
 
 ---
 
-<p align="center"><em>“Code. Create. Contribute.”</em></p>
+## What I Work With
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/TechStack.gif" width="420" />
+</p>
+
+### Core Engineering
+- **TypeScript, JavaScript, Java, Python**
+- Data Structures & Algorithms
+- Object-Oriented Design
+
+### Frontend
+- React, Next.js
+- Tailwind CSS, Shadcn/ui
+- React Native (Expo)
+
+### Backend & APIs
+- Node.js, Express.js
+- REST, JWT, WebSockets
+- Microservices Architecture
+
+### Databases
+- PostgreSQL, MySQL, MongoDB
+- Supabase, Convex, Appwrite
+- Prisma ORM
+
+### Cloud & DevOps
+- **Azure, AWS, GCP, Vercel**
+- GitHub Actions, Azure DevOps, GitLab CI/CD
+- Docker, CI/CD pipelines, Bash scripting
+
+### AI / ML
+- LLM integrations (Gemini, OpenAI, LLaMA, Mistral, Qwen)
+- Vector Search, RAG pipelines
+- TensorFlow, pandas
+
+---
+
+## Featured Projects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Projects.gif" width="420" />
+</p>
+
+### Retail Edge  
+**Cloud-Native Retail & POS Platform**
+
+- Full-stack microservices platform handling **1000+ daily transactions**
+- Role-based access control (Owner, Manager, Staff)
+- Multi-LLM AI assistant across **6 models**
+- CI/CD pipelines with GitHub Actions → Azure & Vercel
+- PostgreSQL (Supabase), Azure Blob Storage, Prisma
+
+**Stack:**  
+Next.js · React · Node.js · Express · TypeScript · Azure · Supabase · Tailwind · LLMs
+
+---
+
+### Receipt Tracker  
+**AI Receipt Digitization Platform**
+
+- AI-powered PDF receipt parsing with **90%+ accuracy**
+- Event-driven workflows using **Inngest**
+- Real-time Convex database
+- Secure Clerk authentication
+
+**Stack:**  
+Next.js · TypeScript · Gemini 2.5 Pro · Convex · Inngest · Vercel
+
+---
+
+### YelpCamp  
+**Full-Stack Booking Platform**
+
+- Auth, CRUD, reviews
+- Mapbox-powered interactive maps
+- Secure image uploads via Cloudinary
+
+**Stack:**  
+Node.js · Express · MongoDB · Mapbox · Cloudinary
+
+---
+
+## Experience
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Work.gif" width="420" />
+</p>
+
+**Tata Consultancy Services (TCS)**  
+_Project Intern — AI & Platform Engineering_
+
+- Built AI-powered admin tooling reducing manual effort by **50%**
+- Designed React + TypeScript interfaces with complex business filters
+- Automated CI/CD pipelines with Azure DevOps & GitLab CI
+- Integrated AI inference services across microservices
+
+---
+
+## Beyond Code
+
+- 🏆 National Gold Medalist — Football (Team Captain)
+- ♟️ FIDE Registered Chess Player
+- 🧠 National AI Olympiad — State Rank 6
+- 📚 IEEE & IJSREM Publications (2025)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdazfar2/Cool-GIFs-For-GitHub/main/Coding.gif" width="420" />
+</p>
+
+---
+
+<p align="center">
+  <em>
+    I value clean systems, thoughtful engineering, and shipping things that last.
+  </em>
+</p>
