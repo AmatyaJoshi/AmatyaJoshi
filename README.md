@@ -29,17 +29,23 @@
 
 ### About Me
 
-<img 
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-  align="right"
-  width="250"
-/>
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
 - @ MIT ADT University  
 - Building scalable applications with a focus on clean architecture & user experience  
 - Exploring AI integrations in full-stack systems  
 
-<br clear="right"/>
+    </td>
+    <td align="right" width="30%">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+        width="140"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ### Tech Stack
