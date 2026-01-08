@@ -5,7 +5,6 @@
     alt="Banner"
     width="100%"
     height="100"
-    style="object-fit: cover;"
   />
 </p>
 
