@@ -1,4 +1,4 @@
-<img width="504" height="65" alt="image" src="https://github.com/user-attachments/assets/6d714d53-60b9-42e7-8494-aec5be94f0e9" /><p align="center">
+<p align="center">
   <img 
     src="https://s2.ezgif.com/tmp/ezgif-28801e96bcc43f80.gif"
     alt="Banner"
@@ -8,7 +8,6 @@
 </p>
 
 <img width="504" height="65" alt="image" align="center" src="https://github.com/user-attachments/assets/1a18e3c1-2304-4f77-a07f-51f66249961d" />
-
 
 <p align="center">
   Full-Stack Developer · AI Enthusiast · Late-Night Debugger
