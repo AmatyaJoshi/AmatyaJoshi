@@ -52,7 +52,7 @@
 </table>
 
 
-### Tech Stack
+### ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
 <p align="center">
   <!-- Web Core -->
@@ -87,7 +87,7 @@
 
 ---
 
-### 📫 Let's Connect
+### ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
 
 I'm open to internships, freelance opportunities & collaborations. Feel free to reach out!
 
