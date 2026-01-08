@@ -4,7 +4,7 @@
     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTloN3N1a2F2NzNneGhpYnpzdnY0aGNpMTdjbHZ0djU5ZjhmYW93NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif"
     alt="Banner"
     width="100%"
-    height="400"
+    height="100"
     style="object-fit: cover;"
   />
 </p>
