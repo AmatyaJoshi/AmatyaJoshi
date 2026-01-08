@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm Amatya Joshi 🧑🏻‍💻</h1>
+<h1 align="center">Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
   Full-Stack Developer · AI Enthusiast · Late-Night Debugger
