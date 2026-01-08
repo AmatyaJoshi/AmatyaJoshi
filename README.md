@@ -1,4 +1,4 @@
-<p align="center">
+<img width="504" height="65" alt="image" src="https://github.com/user-attachments/assets/6d714d53-60b9-42e7-8494-aec5be94f0e9" /><p align="center">
   <img 
     src="https://s2.ezgif.com/tmp/ezgif-28801e96bcc43f80.gif"
     alt="Banner"
@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Amatya Joshi 🧑🏻‍💻</h1>
+<img width="504" height="65" alt="image" src="https://github.com/user-attachments/assets/07b1aca7-4d93-4cda-a66e-90b1f17306ea" />
 
 <p align="center">
   Full-Stack Developer · AI Enthusiast · Late-Night Debugger
