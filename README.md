@@ -7,7 +7,7 @@
   />
 </p>
 
-<img width="504" height="65" alt="image" align="center" src="https://github.com/user-attachments/assets/1a18e3c1-2304-4f77-a07f-51f66249961d" />
+<img width="504" height="65" alt="image" align="center" src="https://see.fontimg.com/api/rf5/ywOWd/NmMyYTA0N2M3ZDE4NGFkM2FlZmM3NDNjYTlkZWRhOWQub3Rm/QW1hdHlhIEpvc2hp/supercharge-italic.png?r=fs&h=65&w=1000&fg=FFFFFF&bg=353D4B&tb=1&s=65" />
 
 <p align="center">
   Full-Stack Developer · AI Enthusiast · Late-Night Debugger
