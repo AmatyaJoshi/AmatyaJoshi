@@ -33,9 +33,13 @@
   <tr>
     <td valign="top" width="70%" style="padding:0;">
 
-- @ MIT ADT University  
-- Building scalable applications with a focus on clean architecture & user experience  
-- Exploring AI integrations in full-stack systems  
+- Computer Science undergraduate @ **MIT ADT University**
+- Former intern at **Tata Consultancy Services (TCS)**
+- Interested in building **reliable, production-ready software**
+- Comfortable owning features **end-to-end** (design → implementation → deployment)
+- Strong preference for **clean structure, maintainability, and clarity**
+- Value learning through **hands-on projects and iteration**
+- Regularly practice **problem solving** alongside development work 
 
     </td>
     <td align="right" width="30%" style="padding:0;">
