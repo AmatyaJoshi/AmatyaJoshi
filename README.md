@@ -7,7 +7,8 @@
   />
 </p>
 
-<img width="504" height="65" alt="image" src="https://github.com/user-attachments/assets/07b1aca7-4d93-4cda-a66e-90b1f17306ea" />
+<img width="504" height="65" alt="image" align="center" src="https://github.com/user-attachments/assets/1a18e3c1-2304-4f77-a07f-51f66249961d" />
+
 
 <p align="center">
   Full-Stack Developer · AI Enthusiast · Late-Night Debugger
