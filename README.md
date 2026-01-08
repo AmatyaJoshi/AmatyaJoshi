@@ -29,16 +29,16 @@
 
 ### About Me
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="70%" style="padding:0;">
 
 - @ MIT ADT University  
 - Building scalable applications with a focus on clean architecture & user experience  
 - Exploring AI integrations in full-stack systems  
 
     </td>
-    <td align="right" width="30%">
+    <td align="right" width="30%" style="padding:0;">
       <img 
         src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
         width="250"
