@@ -1,3 +1,12 @@
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTloN3N1a2F2NzNneGhpYnpzdnY0aGNpMTdjbHZ0djU5ZjhmYW93NyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif"
+    alt="Cyberpunk Banner"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi, I'm Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
@@ -5,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/amatyajoshi](https://www.linkedin.com/in/amatya-joshi-725435219/)">
+  <a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:workwithamatya@gmail.com">
