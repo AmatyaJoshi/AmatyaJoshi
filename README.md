@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://s2.ezgif.com/tmp/ezgif-28801e96bcc43f80.gif"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ2d3N2dnphMXgxcXEyOGJvcXFoeGZ4OGR6d2xhcGh4amNjM2M0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BW51OCstarPBm/giphy.gif"
     alt="Banner"
     width="100%"
     height="100"
