@@ -10,7 +10,7 @@
 <h1 align="center">Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
-  Full-Stack Developer · AI Enthusiast · Late-Night Debugger
+  Full-Stack Developer · AI Engineer · Late-Night Debugger
 </p>
 
 <p align="center">
