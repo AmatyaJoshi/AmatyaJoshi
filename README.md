@@ -1,13 +1,11 @@
 <p align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc4eXJ6YXBqYWRuM25ydWwwamRkY21xaXp2ZHg1amVqbjRnbmRxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lKaeQAunM3hZaqsOpj/giphy.gif"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGU3emViZDdyeWI2ZWZyODZkeDVqNDZlNDd6bW5sMWM4Z3dyNndkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif"
     alt="Banner"
     width="100%"
     height="100"
   />
 </p>
-
-<h1 align="center">Amatya Joshi 🧑🏻‍💻</h1>
 
 <p align="center">
   Full-Stack Developer · AI Engineer · Late-Night Debugger
