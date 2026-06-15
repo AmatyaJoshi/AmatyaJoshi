@@ -1,419 +1,96 @@
-<!-- ========================================================= -->
-<!--                    AMATYA JOSHI                            -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Hero Banner"/>
-
-<br/>
-<br/>
-
-# Amatya Joshi
-
-### Software Engineer • AI Engineer • Full Stack Developer
-
-<p>
-
-Building intelligent software, enterprise AI systems and scalable cloud applications.
-
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWJ4OHB3eGkzMmp3NWkyM2t4NjNnZ2I3Y2RmMGM1azh2a2d6a2cxdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif"
+    alt="Banner"
+    width="100%"
+    height="100"
+  />
 </p>
 
-<br/>
+<h1 align="center">Amatya Joshi 🧑🏻‍💻</h1>
 
-<a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  Full-Stack Developer · AI Engineer · Late-Night Debugger
+</p>
 
-&nbsp;
-
-<a href="mailto:workwithamatya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/AmatyaJoshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/AmatyaJoshi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amatya-joshi-725435219/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:workwithamatya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+    <a href="https://leetcode.com/u/AmatyaJoshi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+### ᴀʙᴏᴜᴛ ᴍᴇ
 
-| About | Experience | Projects | Research | Tech | GitHub |
-|:------:|:----------:|:--------:|:--------:|:----:|:------:|
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" width="70%" style="padding:0;">
 
-</div>
+- Computer Science undergraduate @ **MIT ADT University**
+- Former intern at **Tata Consultancy Services (TCS)**
+- Interested in building **reliable, production-ready software**
+- Comfortable owning features **end-to-end** (design → implementation → deployment)
+- Strong preference for **clean structure, maintainability, and clarity**
+- Value learning through **hands-on projects and iteration**
+- Regularly practice **problem solving** alongside development work 
 
-<br/>
-
-# About
-
-<table>
-
-<tr>
-
-<td width="62%" valign="top">
-
-### Engineering Philosophy
-
-I enjoy building software that solves real-world problems through clean architecture, thoughtful engineering and scalable design.
-
-Over the last few years my interests have naturally evolved towards Enterprise AI, Cloud Engineering and Full Stack Development where software engineering meets artificial intelligence.
-
-Rather than chasing every new framework, I prefer understanding systems deeply and building products that are maintainable, reliable and production ready.
-
-<br/>
-
-### Current Interests
-
-- Enterprise AI
-- Large Language Models
-- Distributed Systems
-- Retrieval Augmented Generation
-- Cloud Native Platforms
-- System Design
-- Full Stack Engineering
-
-</td>
-
-<td width="38%" align="center">
-
-<img
-src="./assets/avatar-frame.svg"
-width="260"
-alt="Profile"/>
-
-</td>
-
-</tr>
-
+    </td>
+    <td align="right" width="30%" style="padding:0;">
+      <img 
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+        width="250"
+      />
+    </td>
+  </tr>
 </table>
 
----
 
-# Experience
+### ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
-<table>
+<p align="center">
+  <!-- Web Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
 
-<tr>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" />
 
-<td width="50%" valign="top">
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
-## Current
+  <!-- Styling -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" style="background-color:black; border-radius: 50%; padding: 5px;" />
 
-### AI Engineer Intern
+  <!-- Cloud / Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="50" style="background-color:white; border-radius: 10px; padding: 3px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" />
 
-**Altimetrik**
-
-Working on enterprise AI solutions using modern LLM frameworks, cloud infrastructure and scalable AI workflows.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Previous
-
-### Software Engineering Intern
-
-**Tata Consultancy Services**
-
-Built AI-powered enterprise applications, React interfaces, backend services and deployment pipelines for global clients.
-
-</td>
-
-</tr>
-
-</table>
+  <!-- VCS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" style="background-color:white; border-radius: 50%; padding: 5px;" />
+</p>
 
 ---
 
-# Highlights
+### ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ
 
-<table>
-
-<tr>
-
-<td width="33%">
-
-### Research
-
-IEEE Published Author
-
-</td>
-
-<td width="33%">
-
-### Certifications
-
-Oracle OCI AI
-
-AWS
-
-Google Cloud
-
-</td>
-
-<td width="33%">
-
-### Achievements
-
-National AI Olympiad
-
-Football Gold Medalist
-
-</td>
-
-</tr>
-
-</table>
+I'm open to internships, freelance opportunities & collaborations. Feel free to reach out!
 
 ---
 
-<!-- ========================================================= -->
-<!--           PART 2 STARTS FROM HERE                         -->
-<!-- ========================================================= -->
-
-# Featured Work
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## RetailEdge
-
-### AI-Powered Retail Ecosystem
-
-Enterprise POS platform designed for modern retail businesses with AI-powered automation.
-
-**Highlights**
-
-- AI Receipt OCR
-- Multi-LLM Assistant
-- Role Based Access Control
-- Real-time Dashboard
-- Razorpay Integration
-- Inventory Management
-
-**Stack**
-
-`React`
-`TypeScript`
-`Node.js`
-`PostgreSQL`
-`OCR`
-`AI`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Blockchain Edge AI
-
-### Edge Intelligence Framework
-
-Research-driven federated learning ecosystem secured using blockchain for healthcare AI.
-
-**Highlights**
-
-- Federated Learning
-- MobileNetV2 Optimization
-- Edge AI
-- Blockchain Ledger
-- Genomic Cancer Detection
-
-**Stack**
-
-`Python`
-`TensorFlow`
-`PyTorch`
-`Blockchain`
-`Federated Learning`
-
-</td>
-
-</tr>
-
-</table>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="100%" valign="top">
-
-## Enterprise AI Console
-
-### Tata Consultancy Services
-
-Enterprise admin platform built during internship.
-
-**Highlights**
-
-- React + TypeScript
-- Azure Pipelines
-- AI Content Generation
-- Semantic Search
-- Vector Database
-- Microservices
-- Enterprise Authentication
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# Research
-
-<div align="center">
-
-| Publication | Status |
-|:------------|:------|
-| Performance Trade-offs in Specialized LLMs | IEEE CINS 2025 |
-| Generalized Linear Model for Trade Prediction | IIM Nagpur |
-| Decentralized Cancer Detection using Edge AI | Taylor & Francis |
-
-</div>
-
----
-
-# Current Focus
-
-<div align="center">
-
-```text
-Artificial Intelligence
-███████████████████████░░░░░   90%
-
-Distributed Systems
-███████████████████░░░░░░░░░   75%
-
-Cloud Engineering
-████████████████████░░░░░░░░   80%
-
-System Design
-█████████████████░░░░░░░░░░░   70%
-
-Open Source
-████████████████░░░░░░░░░░░░   65%
-```
-
-</div>
-
----
-
-# Technology
-
-<table>
-
-<tr>
-
-<td width="25%" valign="top">
-
-## Languages
-
-TypeScript
-
-JavaScript
-
-Java
-
-Python
-
-SQL
-
-</td>
-
-<td width="25%" valign="top">
-
-## Frontend
-
-React
-
-Next.js
-
-Tailwind CSS
-
-HTML
-
-CSS
-
-</td>
-
-<td width="25%" valign="top">
-
-## Backend
-
-Node.js
-
-Express
-
-REST APIs
-
-JWT
-
-WebSockets
-
-</td>
-
-<td width="25%" valign="top">
-
-## AI & Cloud
-
-LangChain
-
-LangGraph
-
-TensorFlow
-
-PyTorch
-
-Databricks
-
-AWS
-
-Azure
-
-GCP
-
-Docker
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Design Principles
-
-> Build software that is simple to use, scalable by design, and enjoyable to maintain.
-
-I enjoy working at the intersection of engineering, artificial intelligence and product thinking, with a strong focus on writing clean, production-ready software rather than quick prototypes.
-
----
-
-<!-- =========================== -->
-<!--      PART 3 BELOW           -->
-<!-- =========================== -->
+<p align="center"><em>“Code. Create. Contribute.”</em></p>
